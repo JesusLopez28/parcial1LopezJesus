@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">parcial1LopezJesus</string>
+    <string name="title">Solicitud de préstamo</string>
+    <string name="curp">CURP</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="validar">Validar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ingreso">Ingreso mensual</string>
+    <string name="texto_prestamo">
+    "Descubre las opciones de préstamos diseñadas especialmente para ti. Nuestra institución ofrece tres tipos exclusivos: Personal, para cubrir tus necesidades diarias; Negocio, ideal para impulsar tu emprendimiento; y Vivienda, para hacer realidad el hogar de tus sueños. Cada categoría viene con tasas de interés competitivas y plazos de pago flexibles, adaptados a tus requerimientos financieros."
+    </string>
+    <string name="cita">Cita</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="agendar">Agendar</string>
+</resources>
